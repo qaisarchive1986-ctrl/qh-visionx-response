@@ -1,0 +1,17 @@
+{
+  "name": "QH VisionX Response",
+  "short_name": "QH Response",
+  "description": "سامانه مدیریت حوادث، پاسخ اضطراری، GIS و موقعیت‌یابی زنده",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "dir": "rtl",
+  "lang": "fa-AF",
+  "background_color": "#0b1220",
+  "theme_color": "#111c30",
+  "categories": [
+    "emergency",
+    "navigation",
+    "utilities"
+  ]
+}
